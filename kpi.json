@@ -1,0 +1,10 @@
+{
+  "indicators": [
+    {"label":"Pertinence", "value":"En place", "detail":"Exclusion des informations non corroborées."},
+    {"label":"Vérification", "value":"En place", "detail":"Vérification des descriptifs des articles."},
+    {"label":"Consultation des originaux", "value":"85 %", "detail":"Taux déclaré de consultation des articles d'origine."},
+    {"label":"Exploitation de la veille", "value":"2 à 3 / jour", "detail":"Articles exploités quotidiennement, selon le bilan déclaré."},
+    {"label":"Fiabilité", "value":"95 %", "detail":"Valeur déclarée ; méthode et période à documenter."},
+    {"label":"Ponctualité", "value":"20 h / jour", "detail":"Planification quotidienne dans le fuseau Europe/Paris ; réussite des exécutions non mesurée ici."}
+  ]
+}
