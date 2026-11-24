@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "European Commission confirms data theft in EU Academy breach",
+    "description": "La Commission européenne, principal organe exécutif de l'Union européenne, a confirmé que des pirates avaient pénétré dans sa plateforme d'apprentissage en ligne « EU Academy » et dérobé les données personnelles d'un nombre non précisé d'utilisateurs. [...]",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+    "publishedAt": "2026-11-24T21:18:34.838+01:00",
+    "corroborationSource": "The Register",
+    "corroborationUrl": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834"
+  },
+  {
+    "title": "Microsoft Azure API Management Flaw Allowed Access to Customer Secrets",
+    "description": "Microsoft a révélé une faille de sécurité dans les niveaux « Classic » d’Azure API Management (APIM) que des pirates ont activement exploitée pour accéder aux identifiants et aux secrets des clients stockés dans les instances concernées. Cette vulnérabilité a permis un accès non autorisé aux fonctions de gestion d’APIM, ce qui a potentiellement exposé des données sensibles telles que les « Named Values », les clés d’abonnement, …",
+    "source": "Petri",
+    "link": "https://petri.com/azure-apim-flaw-exposed-customer-secrets/",
+    "publishedAt": "2026-11-24T21:18:34.838+01:00",
+    "corroborationSource": "The Hacker News",
+    "corroborationUrl": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html"
+  }
+]
