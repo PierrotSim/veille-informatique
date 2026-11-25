@@ -1,5 +1,14 @@
 [
   {
+    "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+    "description": "Un acteur malveillant inconnu a utilisé des outils offensifs basés sur l'intelligence artificielle (IA) dans le cadre d'une campagne visant les serveurs Check Point Security Management, affectant 22 organisations différentes à travers le monde. Cette campagne d'intrusion, suivie par GreyNoise sous le nom de « GreyNoise Threat 13 » (GT13), aurait ciblé des organisations situées dans…",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+    "publishedAt": "2026-11-25T20:00:11.458+01:00",
+    "corroborationSource": "BleepingComputer",
+    "corroborationUrl": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/"
+  },
+  {
     "title": "European Commission confirms data theft in EU Academy breach",
     "description": "La Commission européenne, principal organe exécutif de l'Union européenne, a confirmé que des pirates avaient pénétré dans sa plateforme d'apprentissage en ligne « EU Academy » et dérobé les données personnelles d'un nombre non précisé d'utilisateurs. [...]",
     "source": "BleepingComputer",
