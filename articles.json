@@ -1,5 +1,23 @@
 [
   {
+    "title": "Rackspace pulls plug on Spot cloud service after security breach",
+    "description": "Les clients se lancent dans une course effrénée pour migrer leurs charges de travail et remplacer leurs identifiants compromis",
+    "source": "The Register",
+    "link": "https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352",
+    "publishedAt": "2026-11-26T20:00:06.480+01:00",
+    "corroborationSource": "BleepingComputer",
+    "corroborationUrl": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
+  },
+  {
+    "title": "1Password Confirms Security Breach, Customer Account Data Stolen",
+    "description": "1Password confirme une faille de sécurité ayant entraîné la divulgation d'informations relatives aux comptes de ses clients et de code source privé, mais affirme que ses coffres-forts de mots de passe chiffrés restent sécurisés.",
+    "source": "Linuxiac",
+    "link": "https://linuxiac.com/1password-confirms-security-breach-customer-account-data-stolen/",
+    "publishedAt": "2026-11-26T20:00:06.480+01:00",
+    "corroborationSource": "The Hacker News",
+    "corroborationUrl": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html"
+  },
+  {
     "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
     "description": "Un acteur malveillant inconnu a utilisé des outils offensifs basés sur l'intelligence artificielle (IA) dans le cadre d'une campagne visant les serveurs Check Point Security Management, affectant 22 organisations différentes à travers le monde. Cette campagne d'intrusion, suivie par GreyNoise sous le nom de « GreyNoise Threat 13 » (GT13), aurait ciblé des organisations situées dans…",
     "source": "The Hacker News",
